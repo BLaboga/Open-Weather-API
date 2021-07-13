@@ -1,2 +1,1 @@
-# Open-Weather-API
-Check any city weather using Open weather API 
+Create weather checking app using data from https://openweathermap.org/api
